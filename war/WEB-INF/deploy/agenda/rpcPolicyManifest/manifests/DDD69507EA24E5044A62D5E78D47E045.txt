@@ -1,0 +1,2 @@
+serviceClass: com.agenda.client.GreetingService
+path: 8304F70EB910E3395A0D7248D31C3945.gwt.rpc
